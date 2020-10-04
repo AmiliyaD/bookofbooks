@@ -1,0 +1,166 @@
+.h {
+    margin-top: 35px;
+    margin-bottom: 250px;
+}
+
+h2 {
+    margin-bottom: 40px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    margin-top: 400px;
+}
+
+.c {
+    margin-top: 90px;
+    height: 150px;
+
+
+background: #EEEEEE;
+}
+h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 66px;
+}
+
+.h1p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 39px;
+}
+.ffd {
+    padding: 40px;
+
+
+}
+.hb {
+    padding-top: 15px;
+}
+.img, .img2 {
+  display:block ruby;
+}
+.img span, .img2 span {
+    font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+
+/* identical to box height */
+
+color: #000000;
+}
+.hb {
+    width: 330px;
+    height: 67px;
+    background: #FF008A;
+    border-radius: 50px;
+    border: none;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.pm {
+    margin-top: 200px;
+    margin-bottom: 200px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+
+.nav-item a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+h4 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-decoration-line: underline;
+}
+
+.n {
+    margin-top: 37px;
+}
+
+.a {
+    margin-top: -150px;
+    margin-bottom: 100px;
+}
+
+.dn {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.padd {
+    padding: 30px;
+}
+
+.n {
+    border: 2px solid grey;
+    border-radius: 50px;
+}
+.Романтика {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 10px;
+    background: #FFD0DE;
+    border-radius: 20px;
+    }
+
+.Ужасы {
+    font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 16px;
+background: #FF2C2C;
+border-radius: 20px;
+padding: 10px;
+color: #FFF5F5;
+}
+.Фэнтези {
+    
+background: #CD9BFF;
+border-radius: 20px;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 16px;
+padding: 10px;
+/* identical to box height */
+
+color: #521392;
+}
+
+.Детектив {
+    background: #F2F2F2;
+border-radius: 20px;
+padding: 10px;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 16px;
+
+/* identical to box height */
+
+color: #7A7A7A;
+
+
+}
